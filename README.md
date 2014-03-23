@@ -5,7 +5,8 @@ When you rode in a backseat of a car as a kid, and looked through the window, di
 a running man, jumping over obstacles along the road? No? Well, I did. This is what Through The
 Window is about: helping the small guy not smash into stuff that the car passes.
 
-You'll need SDL2 installed. Then, run 'make' and './ThroughTheWindow', that should work :)
+You'll need SDL2 installed. Then, run 'perl6 Configure.pl', 'make' and './ThroughTheWindow',
+that should work :)
 
 This game features a manual soundtrack. Copyright laws probably forbid me from bundling it
 with the game, so before you start playing, please go to
